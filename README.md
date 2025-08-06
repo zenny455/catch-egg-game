@@ -1,11 +1,11 @@
-#🥚 Egg Catching Basket Game – C++ with Graphics
+# 🥚 Egg Catching Basket Game – C++ with Graphics
 
 A fun and interactive **Egg Catching Game** built using **C++** and a graphics library.  
 The player controls a basket to catch falling eggs and avoid missing them — all through a simple, visual interface!
 
 
 
-##🎮 Gameplay Features
+## 🎮 Gameplay Features
 
 - 🧺 Move the basket left and right using arrow keys
 - 🥚 Eggs fall from the top at increasing speed
@@ -16,7 +16,7 @@ The player controls a basket to catch falling eggs and avoid missing them — al
   
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - **Language**: C++  
 - **Graphics Library**: graphics.h
